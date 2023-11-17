@@ -1,0 +1,102 @@
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.exe.config
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.pdb
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.exe.config
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.exe
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\bin\Debug\WinCliente.pdb
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.exe
+D:\Google Drive\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat\WinCliente\obj\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe.config
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.SuggestedBindingRedirects.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2021\12º GPSI\RC\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.pdb
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe.config
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.pdb
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.SuggestedBindingRedirects.cache
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.exe
+C:\GoogleDrive\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe.config
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\bin\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.SuggestedBindingRedirects.cache
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2022\Mod\RC\12º GPSI\Trabalhos\WinChat_old\WinCliente\obj\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\bin\Debug\WinCliente.exe.config
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\bin\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\bin\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V1\WinCliente\obj\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.exe.config
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.pdb
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.exe
+D:\DriveGoogle\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.pdb
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.exe.config
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.exe
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\bin\Debug\WinCliente.pdb
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.exe
+C:\Users\Alex\Google\EPBJC 2023\Mod\RC\12 GPSI\WinChat V2\WinCliente\obj\Debug\WinCliente.pdb
+C:\Users\Alex\source\repos\WinChat\WinCliente\bin\Debug\WinCliente.exe.config
+C:\Users\Alex\source\repos\WinChat\WinCliente\bin\Debug\WinCliente.exe
+C:\Users\Alex\source\repos\WinChat\WinCliente\bin\Debug\WinCliente.pdb
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.exe
+C:\Users\Alex\source\repos\WinChat\WinCliente\obj\Debug\WinCliente.pdb
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\bin\Debug\WinCliente.exe.config
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\bin\Debug\WinCliente.exe
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\bin\Debug\WinCliente.pdb
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.csproj.AssemblyReference.cache
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.frmPrincipal.resources
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.Properties.Resources.resources
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.csproj.GenerateResource.cache
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.csproj.CoreCompileInputs.cache
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.exe
+D:\12ºAno\PSI\Mod. 6\Winchat V3\WinCliente\obj\Debug\WinCliente.pdb
